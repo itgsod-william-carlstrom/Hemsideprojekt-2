@@ -175,7 +175,7 @@ Diskutera hur projektet gått tillsammans med Daniel eller Bosse med er utvärde
 
 Du ska skapa en site för en (påhittad) skola.
 
-Du får själv  välja vilken typ av skola det är - stadie, storlek, kommunal eller friskola. Vad du väljer för typ av restaurang avgör naturligtvis vilken målgrupp sidan riktar sig in på.
+Du får själv  välja vilken typ av skola det är - stadie, storlek, kommunal eller friskola. Vad du väljer för typ av skola avgör naturligtvis vilken målgrupp sidan riktar sig in på.
 
 #### 4.1 Användargränssnitt ####
 
