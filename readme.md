@@ -1,4 +1,4 @@
-# Projekt Tranan #
+# Projekt Skolsida #
 
 Den här uppgiften går ut på att planera, genomföra och dokumentera, och utvärdera ett webbutvecklingsprojekt.
 Projektet består av tre delar: *Planering*, *Implementering*, och *Utvärdering*.
