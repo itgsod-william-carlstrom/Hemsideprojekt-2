@@ -32,11 +32,12 @@ header {
 .menu_text {
 
     height: %;
-    width: 10px;
+    width: %;
     float: left;
-    margin-left: 150px;
-    margin-top: 10px;
+    margin-left: 151px;
+    margin-top: -47px;
     color: #07707F;
+
 
 }
 #menu_bar {
@@ -49,7 +50,7 @@ header {
 
 #menu_bar_2 {
     height: 10px;
-    margin-top: -30px;
+    margin-top: -20px;
     background-color: #0EE0FF;
 
 }
@@ -57,7 +58,7 @@ header {
 #white_menu_bar {
     height: 100px;
     background-color: #ffffff;
-    margin-top: -30px;
+    margin-top: -84px;
 
 
 }
@@ -65,7 +66,7 @@ header {
     margin-left: 50px;
 }
 
-#logo {
+#logo2 {
     margin-top: 5px;
     height: 0px;
 
@@ -79,7 +80,14 @@ header {
     height: 250px;
     width: 50%;
 
+
 }
 
+#logo {
+    margin-top: 10px;
+    margin-left: 60px;
+
+
+}
 
 
