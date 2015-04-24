@@ -82,6 +82,14 @@ header {
 
 
 }
+#Text_border2 {
+    margin-top: -670px;
+    margin-left: 600px;
+    border: 5px solid black;
+    height: 250px;
+    width: 30%;
+
+}
 
 #logo {
     margin-top: 10px;
