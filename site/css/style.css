@@ -98,7 +98,19 @@ header {
 
 }
 #kontaktrubrik {
+    margin-top: 70px;
     margin-left: 100px;
     float: left;
 
+}
+#white_background {
+    margin-top: -301px;
+    background-color: #ffffff;
+    height: 800px;
+    width: 100%;
 
+}
+#kontaktinformation {
+    margin-top: 200px;
+    margin-left: 100px;
+}
