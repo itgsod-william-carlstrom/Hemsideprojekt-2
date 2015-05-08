@@ -114,3 +114,90 @@ header {
     margin-top: 200px;
     margin-left: 100px;
 }
+
+#white_background2 {
+    background-color: #ffffff;
+    height: 800px;
+    widows: 100%;
+
+}
+
+#omossrubrik {
+    margin-top: -750px;
+    margin-left: 150px;
+
+}
+
+#classroom {
+    margin-left: 50px;
+}
+
+#white_background3 {
+    background-color: #ffffff;
+    height: 1000px;
+    width: 100%;
+}
+
+#personalrubrik {
+    margin-top: -970px;
+    margin-left: 150px;
+}
+
+#personal1 {
+    margin-top: -350px;
+    margin-left: 50px;
+}
+
+#personal2 {
+    margin-top: -55px;
+    margin-left: 250px;
+}
+
+#personal3 {
+    margin-top: -55px;
+    margin-left: 450px;
+}
+
+#personal4 {
+    margin-top: 310px;
+    margin-left: 50px;
+}
+
+#personal5 {
+    margin-top: -55px;
+    margin-left: 250px;
+}
+
+#personal6 {
+    margin-top: -55px;
+    margin-left: 450px;
+}
+
+#anna1 {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+#anna2 {
+    margin-top: -205px;
+    margin-left: 250px;
+}
+
+#anna3 {
+    margin-top: -205px;
+    margin-left: 450px;
+}
+
+#anna4 {
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+#anna5 {
+    margin-top: -204px;
+    margin-left: 250px;
+}
+
+#anna6 {
+    margin-top: -204px;
+    margin-left: 450px;
+}
