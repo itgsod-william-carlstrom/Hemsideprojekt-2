@@ -75,7 +75,7 @@ header {
 
 }
 #white_background {
-    margin-top: -301px;
+    margin-top: -701px;
     background-color: #ffffff;
     height: 800px;
     width: 100%;
@@ -171,4 +171,8 @@ header {
 #anna6 {
     margin-top: -204px;
     margin-left: 450px;
+}
+
+#map {
+    margin-left: 100px;
 }
